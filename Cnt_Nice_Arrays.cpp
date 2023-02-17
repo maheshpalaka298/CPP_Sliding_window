@@ -23,3 +23,5 @@ int n=nums.size();
         }
         return ans;
 }
+
+//Given an array of integers nums and an integer k. A continuous subarray is called nice if there are k odd numbers on it.
